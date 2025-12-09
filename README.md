@@ -1,4 +1,4 @@
-# Multicore RISC-V Processor
+# Multicore RISC-V Processor (in progress...)
 # 📖 Overview
 A multicore RISC-V processor implementation written in SystemVerilog/Verilog, featuring a multi-core architecture with shared memory and inter-core communication capabilities. This project implements a scalable processor design that can be configured with multiple RISC-V cores working in parallel.
 
